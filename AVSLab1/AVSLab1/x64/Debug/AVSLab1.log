@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(6,2): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(7,3): error C2065: mov: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(7,7): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "rdx"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(7,7): error C2065: rdx: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(8,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(21,10): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(28,10): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(34,10): warning C4244: =: преобразование "short" в "char", возможна потеря данных
+  AVSLab1.vcxproj -> C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\Debug\AVSLab1.exe
