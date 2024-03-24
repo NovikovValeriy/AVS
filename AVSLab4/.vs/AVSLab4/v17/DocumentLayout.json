@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dzmitry\\source\\repos\\4sem\\AVS\\AVSLab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{167E48CE-38C2-4B9B-822B-34DA1FF164D6}|AVSLab4\\AVSLab4.vcxproj|C:\\Users\\dzmitry\\source\\repos\\4sem\\AVS\\AVSLab4\\AVSLab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{167E48CE-38C2-4B9B-822B-34DA1FF164D6}|AVSLab4\\AVSLab4.vcxproj|solutionrelative:AVSLab4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\dzmitry\\source\\repos\\4sem\\AVS\\AVSLab4\\AVSLab4\\main.cpp",
+              "RelativeDocumentMoniker": "AVSLab4\\main.cpp",
+              "ToolTip": "C:\\Users\\dzmitry\\source\\repos\\4sem\\AVS\\AVSLab4\\AVSLab4\\main.cpp",
+              "RelativeToolTip": "AVSLab4\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T20:14:49.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
