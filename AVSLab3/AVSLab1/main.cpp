@@ -96,7 +96,7 @@ int main()
 		movq F + 8, mm2
 		emms
 	}
-	/*std::cout << "Array A:\n";
+	std::cout << "Array A:\n";
 	for (size_t i = 0; i < 8; i++)
 	{
 		std::cout << (int)A[i] << " ";
@@ -115,7 +115,7 @@ int main()
 	for (size_t i = 0; i < 8; i++)
 	{
 		std::cout << (int)D[i] << " ";
-	}*/
+	}
 	std::cout << "\n\nAnswer, array F:\n";
 	for (size_t i = 0; i < 8; i++)
 	{

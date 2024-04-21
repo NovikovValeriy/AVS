@@ -1,0 +1,75 @@
+﻿  main.cpp
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(13,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(14,9): error C2065: finit: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(15,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fldpi"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(15,9): error C2065: fldpi: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(16,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fmul"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(16,9): error C2065: fmul: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(16,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(16,14): error C2065: st: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(16,18): error C3861: st: идентификатор не найден
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(17,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fdiv"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(17,9): error C2065: fdiv: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(17,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "eight"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(18,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(21,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(22,9): error C2065: fldpi: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(23,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fdiv"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(23,9): error C2065: fdiv: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(23,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "four"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(24,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fmul"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(24,9): error C2065: fmul: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(24,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(25,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(28,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(29,9): error C2065: fsubr: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(29,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(29,15): error C2065: st: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(29,19): error C3861: st: идентификатор не найден
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(30,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fstp"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(30,9): error C2065: fstp: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(30,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(31,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(43,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(44,9): error C2065: finit: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(45,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fild"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(45,9): error C2065: fild: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(45,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "n"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(46,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fmul"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(46,9): error C2065: fmul: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(46,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "two"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(47,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fsub"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(47,9): error C2065: fsub: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(47,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "one"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(48,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fst"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(48,9): error C2065: fst: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(48,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "temp"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(49,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(52,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(53,9): error C2065: fmul: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(53,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "x"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(54,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fcos"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(54,9): error C2065: fcos: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(55,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(57,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(58,9): error C2065: fld: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(58,13): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "temp"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(59,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fmul"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(59,9): error C2065: fmul: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(59,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "temp"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(60,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(63,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(64,9): error C2065: fdivr: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(64,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "st"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(64,15): error C2065: st: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(64,19): error C3861: st: идентификатор не найден
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(65,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(67,5): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(68,9): error C2065: fstp: необъявленный идентификатор
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(68,14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "result"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(69,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(93,25): warning C4244: инициализация: преобразование "_Rep" в "double", возможна потеря данных
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(93,25): warning C4244:         with
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(93,25): warning C4244:         [
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(93,25): warning C4244:             _Rep=__int64
+C:\Users\dzmitry\source\repos\4sem\AVS\AVSLab1\AVSLab1\main.cpp(93,25): warning C4244:         ]
